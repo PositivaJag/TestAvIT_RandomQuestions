@@ -13,7 +13,7 @@ What is the responsibility of the test leader?
 Why is it important for people who have a pronounced test role and what are their duties?
 What distinguishes the developer's test work?
 What are the advantages and disadvantages of independent testing?
-Why can't you test everything?
+Why can't you test everything?	
 What is a more appropriate goal than a flawless system?
 Why is it important to start the test work early?
 How does a risk assessment go?
@@ -30,12 +30,11 @@ Which tools can be used in communication?
 What factors must be assessed to determine if a system can be deployed?
 What is test analysis and test design?
 What is meant by stable systems? Why is it important that the systems are stable?
-What can be done if there are no formulated requirements?
 What is a test area?
 Why should the system be tested before it is fully developed?
 Why should testing start with simple cases and then gradually increase the complexity?
 How can distractions during testing be avoided, while exploring what is happening?
-What does ”testability” mean?
+What does testability mean?
 How can testability requirements be handled?
 In what ways can test data be controlled in a test case?
 What is the difference between test case, test protocol and test log?
@@ -67,3 +66,4 @@ Why is a tester needed?
 Why is it not enough for developers to test?
 Why are increased demands for effective tests in the future?
 What is test data?
+What can be done if there are no formulated requirements?
