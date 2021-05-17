@@ -1,0 +1,69 @@
+What is testing?
+Testing consists of two parts, both of which have the same goals. Which? What do they mean?
+What is the difference between verification and validation?
+Why do organizations choose to test their systems?
+What different purposes can a specific test have?
+How can standards and formal requirements affect how the tests are carried out?
+Give examples of a certain type of system and how it affects the test work.
+What characterizes the test work when several teams work with a system?
+What effect does it have on schedules if the system has dependence on many other systems?
+How does the test work differ between an immature and a mature system?
+Why is it important that the team as a whole takes responsibility for the quality?
+What is the responsibility of the test leader?
+Why is it important for people who have a pronounced test role and what are their duties?
+What distinguishes the developer's test work?
+What are the advantages and disadvantages of independent testing?
+Why can't you test everything?
+What is a more appropriate goal than a flawless system?
+Why is it important to start the test work early?
+How does a risk assessment go?
+Why can't the test time be calculated based on the development time?
+Which three phases can the test work be divided into? What characterizes each phase?
+Describe how to use the degradation method to estimate the time required to perform the tests.
+Describe how the method controlled time with flexible content works.
+Mention three common mistakes in test planning.
+What are the main alternatives when the plan needs to be revised?
+Why is transparency and clarity important?
+What steps should be taken to convey the status in a good way?
+What should be communicated?
+Which tools can be used in communication?
+What factors must be assessed to determine if a system can be deployed?
+What is test analysis and test design?
+What is meant by stable systems? Why is it important that the systems are stable?
+What can be done if there are no formulated requirements?
+What is a test area?
+Why should the system be tested before it is fully developed?
+Why should testing start with simple cases and then gradually increase the complexity?
+How can distractions during testing be avoided, while exploring what is happening?
+What does ”testability” mean?
+How can testability requirements be handled?
+In what ways can test data be controlled in a test case?
+What is the difference between test case, test protocol and test log?
+What should a test case contain?
+What should a test protocol contain?
+Give an example of how a test case can be structured?
+What is a test environment?
+Give some examples of purposes with a particular test environment.
+What governs the need for test environments? Why are there limitations on how many test environments you can have?
+What is often the case when there are dependencies between systems?
+How to handle an incomplete test environment?
+Give three examples of types of test data.
+What are the advantages and disadvantages of creating fictitious test data?
+What are the advantages and disadvantages of using de-identified production data?
+How can one handle a situation where test data is not coordinated between two systems?
+Why is wrong important?
+What severity levels are usually broken into and what do they mean?
+Describe how the consequences of an error are analyzed?
+What is the purpose of error reports?
+In what ways can errors be handled?
+What reasons may exist for automating?
+What should be considered when automating tests?
+Give examples of different types of automation that can facilitate the tests and what characterizes them.
+What can make automation of user interface tests more difficult?
+What is the advantage of automating during hood tests?
+Why is the tester's work fun and challenging?
+What does a tester need?
+Why is a tester needed?
+Why is it not enough for developers to test?
+Why are increased demands for effective tests in the future?
+What is test data?
