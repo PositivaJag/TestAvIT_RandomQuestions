@@ -8,3 +8,5 @@ Reads from text file. Randomizes the questions from the course book. Has some ba
 Badly commented. Just a small program that does what I need it to do to train for the exam. 
 
 This program can be uppdated to other course material by bulding a new text-file. You don't have to number the rows. 
+
+Don't forget to change the path to the text-file to match your system. 
