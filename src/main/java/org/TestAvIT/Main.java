@@ -22,7 +22,10 @@ public class Main {
     private static Scanner userIn = new Scanner(System.in);
     private static String keyIn;
     private static ArrayList<String> questionList;
-    private static String filePath = "QuestionsTestAvIT\\src\\main\\java\\org\\TestAvIT\\Questions.txt";
+    
+    //Change to your path. 
+    private static String filePath = "QuestionsTestAvIT\\src\\main\\java\\org\\TestAvIT\\Questions.txt"; 
+    
     private static int qCount = 1;
     public static void main(String[] args) throws Exception {
 
